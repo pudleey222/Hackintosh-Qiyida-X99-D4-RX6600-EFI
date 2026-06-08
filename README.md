@@ -14,12 +14,18 @@ Bios > https://github.com/jwagnervaz/QIYIDA-X99-D4-V2.0/blob/main/V3-TURBO-UNLOC
 
 
 # SETUP:
-Qiyida D4 X99.
+Qiyida D4 X99
+
 XEON 2680V3
+
 16GB RAM DDR4 2133
+
 RX 6600 ASROCK 8GB
+
 SSD KINGSTON SATA 256GB
+
 LAN > Realtek 8111H
+
 AUDIO > Realtek ALC897
 
 
