@@ -30,7 +30,8 @@ File > Open > C:\Users\user\Downloads\Recovery.+.EFI.Tahoe\Recovery + EFI Tahoe\
 
 <img width="730" height="524" alt="Untitled" src="https://github.com/user-attachments/assets/2fd5d03e-318a-4373-aefb-0ac239225d1c" />
 <img width="730" height="526" alt="Untitled" src="https://github.com/user-attachments/assets/09d6c954-1b9a-4e18-a632-3ca1135b9682" />
-<img width="729" height="535" alt="{E4A7CE87-F708-44AE-8B75-6EFC778750F5}" src="https://github.com/user-attachments/assets/cbaa8fe6-5edf-4b74-8a7c-790df5725cef" />
+<img width="730" height="535" alt="Untitled" src="https://github.com/user-attachments/assets/d3c0e784-eeff-42b7-b8c3-4e0ace324792" />
+
 
 
 SystemSerialNumber = Serial
