@@ -1,5 +1,5 @@
 # WARNING / AVISOS
-Por favor, gere um novo número de SMBIOS utilizando GenSMBIOS e coloque os novos valores no config.plist > PlataformInfo antes de prosseguir com a instalação para que sua conta Icloud não seja banida.
+Por favor, gere um novo número de SMBIOS se você for entrar com alguma conta Icloud utilizando GenSMBIOS e coloque os novos valores no config.plist > PlataformInfo antes de prosseguir com a instalação para que sua conta Icloud não seja banida.
 
 Please generate a new number of SMBIOS using GenSMBIOS and put the new values in config.plist > PlatformInfo before proceeding with the installation so that your Icloud account is not banned.
 SMBIOS > MacPro7,1
