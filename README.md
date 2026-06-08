@@ -5,7 +5,7 @@ Please generate a new number of SMBIOS using GenSMBIOS and put the new values in
 SMBIOS > MacPro7,1
 
 
-# BIOS, credits to Jwagnervaz.
+# BIOS, Credits to Jwagnervaz.
 You will have to flash a new bios to install Tahoe.
 
 Você terá que flashar essa bios para conseguir instalar o Tahoe.
