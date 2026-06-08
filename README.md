@@ -5,7 +5,7 @@ Please generate a new number of SMBIOS using GenSMBIOS and put the new values in
 SMBIOS > MacPro7,1
 
 
-# BIOS, Credits to Jwagnervaz.
+# BIOS
 You will have to flash a new bios to install Tahoe.
 
 Você terá que flashar essa bios para conseguir instalar o Tahoe.
@@ -20,6 +20,11 @@ RX 6600 ASROCK 8GB
 SSD KINGSTON SATA 256GB
 LAN > Realtek 8111H
 AUDIO > Realtek ALC897
+
+
+# CREDITS TO:
+Gabriel Luchina > EFI BASE
+Jwagnervaz > BIOS
 
 
 # SCREENSHOTS / CAPTURAS DE TELA
