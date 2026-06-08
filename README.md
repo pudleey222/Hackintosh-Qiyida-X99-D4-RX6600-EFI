@@ -9,6 +9,7 @@ SMBIOS > MacPro7,1
 You will have to flash a new bios to install Tahoe.
 
 Você terá que flashar essa bios para conseguir instalar o Tahoe.
+
 Bios > https://github.com/jwagnervaz/QIYIDA-X99-D4-V2.0/blob/main/V3-TURBO-UNLOCKED/QYX99D4V2-0-V3-UNLOCKED-11-01-2023.rom 
 
 
