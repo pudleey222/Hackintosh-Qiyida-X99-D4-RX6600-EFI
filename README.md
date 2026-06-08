@@ -33,9 +33,10 @@ File > Open > C:\Users\user\Downloads\Recovery.+.EFI.Tahoe\Recovery + EFI Tahoe\
 <img width="729" height="535" alt="{E4A7CE87-F708-44AE-8B75-6EFC778750F5}" src="https://github.com/user-attachments/assets/cbaa8fe6-5edf-4b74-8a7c-790df5725cef" />
 
 
-
 SystemSerialNumber = Serial
+
 MLB = Board Serial
+
 SystemUUID = SmUUID
 
 replace serials according to genSMBIOS numbers, and you ready to install MacOS Tahoe
