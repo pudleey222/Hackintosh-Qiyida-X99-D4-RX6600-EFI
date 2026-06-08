@@ -25,6 +25,8 @@ AUDIO > Realtek ALC897
 # SCREENSHOTS / CAPTURAS DE TELA
 <img width="2560" height="1080" alt="Captura de Tela 2026-06-07 às 21 30 11" src="https://github.com/user-attachments/assets/99de5334-f94b-487f-88d1-7785474d8d34" />
 <img width="2560" height="1080" alt="Captura de Tela 2026-06-07 às 21 32 46" src="https://github.com/user-attachments/assets/73973575-5acc-4237-883a-d48523791458" />
+<img width="2560" height="1080" alt="download" src="https://github.com/user-attachments/assets/b28b6ed4-ea83-4b15-b9dd-b99d6ce2db0e" />
+
 
 
 
