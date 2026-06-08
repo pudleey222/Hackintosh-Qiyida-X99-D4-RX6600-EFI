@@ -23,7 +23,7 @@ AUDIO > Realtek ALC897
 
 
 # CREDITS TO:
-Gabriel Luchina > EFI BASE
+Gabriel Luchina > EFI BASE,
 Jwagnervaz > BIOS
 
 
